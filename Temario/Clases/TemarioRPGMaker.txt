@@ -1,0 +1,16 @@
+- Introducción al desarrollo de videojuegos.
+- Lección 1: Creando mapas.
+- Lección 2: Creando eventos.
+- Lección 3: La base de datos.
+- Lección 4: Diálogos.
+- Lección 5: Cofres.
+- Lección 6: Puntos de guardado.
+- Lección 7: Punto de guardado complejo.
+- Lección 8: Inclusión enemigos
+- Lección 9: Crear habilidades nuevas.
+- Lección 10: Creación de enemigos nuevos.
+- Lección 11: Creación de una tienda.
+- Lección 12: Eventos automáticos (cinemáticas).
+- Lección 13: Interruptores.
+- Lección 14: Integración de plugins.
+

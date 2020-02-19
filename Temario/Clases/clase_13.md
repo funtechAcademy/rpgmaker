@@ -15,3 +15,16 @@ Daremos también un vistazo a la programación básica con el uso de los condici
 - Aprender a crear eventos que cambien el estado de los interruptores.
 - Aprender a crear un evento condicional.
 - Implementar todo lo aprendido a nuestro proyecto principal.
+
+## Teoría
+---
+### Qué son los interruptores
+
+Los interruptores son un tipo de variable que almacenan solo 2 estados, **on** y **off**. Estos dos estados nos permiten definir condiciones dependiendo del estado del interruptor.
+
+Por ejemplo si queremos que ocurra un determinado evento solo cuando a sucedido otro previo que es necesario en la historia, podemos usar los interruptores.
+
+> Nota: todos los interruptores de RPG Maker, estan por defecto en **off**.
+
+### Implementando un evento con interruptores
+
